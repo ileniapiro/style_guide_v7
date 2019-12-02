@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "button.css",
+	"sources": [
+		"../../scss/components/button.scss"
+	],
+	"sourcesContent": [
+		".btn {\r\n  margin-top: 15px;\r\n  width: 100%;\r\n  color: #fff;\r\n  border: none;\r\n  padding: 10px 0;\r\n  text-transform: uppercase;\r\n  border-radius: 5px;\r\n}\r\n\r\n.default {\r\n  background-color: #51ddfc;\r\n}\r\n\r\n.error {\r\n  background-color: #e4757a;\r\n}\r\n\r\n.info {\r\n  background-color: #927bc1;\r\n}\r\n\r\n.success {\r\n  background-color: #63cc82;\r\n}\r\n\r\n.warning {\r\n  background-color: #fd7856;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,IAAI,CAAC;EACH,UAAU,EAAE,IAAI;EAChB,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,MAAM;EACf,cAAc,EAAE,SAAS;EACzB,aAAa,EAAE,GAAG;CACnB;;;AAED,AAAA,QAAQ,CAAC;EACP,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,MAAM,CAAC;EACL,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,KAAK,CAAC;EACJ,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,QAAQ,CAAC;EACP,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,QAAQ,CAAC;EACP,gBAAgB,EAAE,OAAO;CAC1B"
+}

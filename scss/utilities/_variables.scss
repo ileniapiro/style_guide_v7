@@ -1,0 +1,12 @@
+$primary-color: #777;
+$color-head: #58e1c1;
+$default: #51ddfc;
+$default-light: lighten($default, 25%);
+$success: #63cc82;
+$success-light: lighten($success, 25%);
+$error: #e4757a;
+$error-light: lighten($error, 25%);
+$warning: #fd7856;
+$warning-light: lighten($warning, 25%);
+$info: #927bc1;
+$mq-m: 768px;

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "puzza.css",
+	"sources": [
+		"../../scss/base/puzza.scss"
+	],
+	"sourcesContent": [
+		"$primary-color: #777;\n$color-head: #58e1c1;\n$default: #51ddfc;\n$default-light: lighten($default, 25%);\n$success: #63cc82;\n$success-light: lighten($success, 25%);\n$error: #e4757a;\n$error-light: lighten($error, 25%);\n$warning: #fd7856;\n$warning-light: lighten($warning, 25%);\n$info: #927bc1;\n$mq-m: 768px;\n"
+	],
+	"names": [],
+	"mappings": ""
+}

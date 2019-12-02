@@ -1,0 +1,26 @@
+/* line 1, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/form.scss */
+.form {
+  flex-basis: 100%;
+}
+
+/* line 5, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/form.scss */
+.input {
+  display: block;
+  width: 94%;
+  margin: 10px auto 0;
+  border: none;
+  padding: 10px;
+  border-bottom: 5px solid #58e1c1;
+}
+
+/* line 14, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/form.scss */
+.hidden {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=form.css.map */

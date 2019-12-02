@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "images.css",
+	"sources": [
+		"../../scss/components/images.scss"
+	],
+	"sourcesContent": [
+		".img-avatar {\r\n  display: block;\r\n  margin-left: auto;\r\n  margin-right: auto;\r\n  margin-top: 10px;\r\n  max-width: 100%;\r\n  max-height: 100%;\r\n}\r\n\r\n.img-frame {\r\n  display: block;\r\n  margin-left: auto;\r\n  margin-right: auto;\r\n  margin-top: 10px;\r\n  max-width: 100%;\r\n  padding: 13px;\r\n  border: 1px solid #ccc;\r\n}\r\n\r\n.img-logo {\r\n  display: block;\r\n  margin-left: auto;\r\n  margin-right: auto;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,WAAW,CAAC;EACV,OAAO,EAAE,KAAK;EACd,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EAClB,UAAU,EAAE,IAAI;EAChB,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,IAAI;CACjB;;;AAED,AAAA,UAAU,CAAC;EACT,OAAO,EAAE,KAAK;EACd,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EAClB,UAAU,EAAE,IAAI;EAChB,SAAS,EAAE,IAAI;EACf,OAAO,EAAE,IAAI;EACb,MAAM,EAAE,cAAc;CACvB;;;AAED,AAAA,SAAS,CAAC;EACR,OAAO,EAAE,KAAK;EACd,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;CACnB"
+}
