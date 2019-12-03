@@ -1,6 +1,1 @@
-@mixin mq ($mq) {
-@if $mq == 'm' {
-@media (min-width: $mq-m){
-@content; }
-}
-}
+
