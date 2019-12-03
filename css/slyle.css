@@ -421,7 +421,7 @@ a {
 .btn {
   margin-top: 15px;
   width: 100%;
-  color: #fff;
+  color: #777;
   border: none;
   padding: 10px 0;
   text-transform: uppercase;
@@ -572,94 +572,94 @@ a {
     margin-left: auto;
     margin-right: auto;
   }
-  /* line 80, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 78, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .centered {
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
-  /* line 86, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 82, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .row {
     flex-direction: row;
   }
-  /* line 90, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 86, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   [class^=col] {
     display: flex;
     justify-content: center;
     margin-top: 0;
     align-items: center;
   }
-  /* line 97, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 93, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   [class^=col] + [class^=col] {
     margin-left: 10px;
   }
-  /* line 101, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 97, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .col-1 {
     flex-basis: 8.33%;
   }
-  /* line 105, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 101, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .col-2 {
     flex-basis: 16.67%;
   }
-  /* line 109, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 105, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .col-3 {
     flex-basis: 25.00%;
   }
-  /* line 113, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 109, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .col-4 {
     flex-basis: 33.33%;
   }
-  /* line 117, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 113, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .col-5 {
     flex-basis: 41.67%;
   }
-  /* line 121, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 117, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .col-6 {
     flex-basis: 50.00%;
   }
-  /* line 125, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 121, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .col-7 {
     flex-basis: 58.33%;
   }
-  /* line 129, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 125, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .col-8 {
     flex-basis: 66.67%;
   }
-  /* line 133, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 129, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .col-9 {
     flex-basis: 75.00%;
   }
-  /* line 137, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 133, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .col-10 {
     flex-basis: 83.33%;
   }
-  /* line 141, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 137, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .col-11 {
     flex-basis: 91.67%;
   }
-  /* line 145, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 141, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .col-12 {
     flex-basis: 100%;
   }
-  /* line 149, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 145, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .nav {
     flex-direction: row;
     justify-content: flex-end;
     align-items: center;
   }
-  /* line 155, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 151, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .nav-link {
     flex-basis: 100px;
   }
-  /* line 159, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 155, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .btn {
     padding: 10px 30px;
   }
-  /* line 163, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 159, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .btn + .btn {
     margin-left: 10px;
   }
-  /* line 167, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 163, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .logo {
     margin-left: initial;
     margin-right: initial;

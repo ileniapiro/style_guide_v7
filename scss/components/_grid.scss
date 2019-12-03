@@ -68,19 +68,15 @@
   flex-basis: 100%;
 }
 
-@media (min-width: $mq-m) {
+@media (min-width: $break-m) {
 
 .container {
   max-width: 1400px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  @include mq;
 }
 
 .centered {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  @include mq;
 }
 
 .row {
