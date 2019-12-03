@@ -1,8 +1,8 @@
 {
 	"version": 3,
-	"file": "slyle.css",
+	"file": "style.css",
 	"sources": [
-		"../scss/slyle.scss",
+		"../scss/style.scss",
 		"../scss/utilities/_index.scss",
 		"../scss/utilities/_variables.scss",
 		"../scss/utilities/_mixins.scss",
