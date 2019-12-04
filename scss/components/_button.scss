@@ -8,10 +8,13 @@
   border-radius: 5px;
 }
 .default {
-  background-color: $default;
   color: white;
+  background-color: $default;
   &:hover {
+    transition: background-color 0.7s ease-in;
     background-color: $default-light;
+
+
   }
 }
 
@@ -19,6 +22,7 @@
   color: white;
   background-color: $error;
   &:hover {
+    transition: background-color 0.7s ease-in;
     background-color: $error-light;
   }
 }
@@ -27,6 +31,7 @@
   color: white;
   background-color: $info;
   &:hover {
+    transition: background-color 0.7s ease-in;
     background-color: $info-light;
   }
 }
@@ -35,7 +40,8 @@
   color: white;
   background-color: $success;
   &:hover {
-      background-color: $success-light;
+    transition: background-color 0.7s ease-in;
+    background-color: $success-light;
     }
 }
 
@@ -43,6 +49,7 @@
   color: white;
   background-color: $warning;
   &:hover {
+    transition: background-color 0.7s ease-in;
     background-color: $warning-light;
   }
 }
