@@ -431,26 +431,56 @@ a {
 /* line 10, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
 .default {
   background-color: #51ddfc;
+  color: white;
 }
 
-/* line 14, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
-.error {
-  background-color: #e4757a;
+/* line 13, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+.default:hover {
+  background-color: #9cecfd;
 }
 
 /* line 18, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
-.info {
-  background-color: #927bc1;
+.error {
+  color: white;
+  background-color: #e4757a;
 }
 
-/* line 22, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
-.success {
-  background-color: #63cc82;
+/* line 21, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+.error:hover {
+  background-color: #f1b5b8;
 }
 
 /* line 26, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+.info {
+  color: white;
+  background-color: #927bc1;
+}
+
+/* line 29, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+.info:hover {
+  background-color: #bdafd9;
+}
+
+/* line 34, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+.success {
+  color: white;
+  background-color: #63cc82;
+}
+
+/* line 37, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+.success:hover {
+  background-color: #9ddfb0;
+}
+
+/* line 42, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
 .warning {
+  color: white;
   background-color: #fd7856;
+}
+
+/* line 45, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+.warning:hover {
+  background-color: #feb4a2;
 }
 
 /* line 1, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_form.scss */

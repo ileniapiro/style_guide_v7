@@ -9,20 +9,40 @@
 }
 .default {
   background-color: $default;
+  color: white;
+  &:hover {
+    background-color: $default-light;
+  }
 }
 
 .error {
+  color: white;
   background-color: $error;
+  &:hover {
+    background-color: $error-light;
+  }
 }
 
 .info {
+  color: white;
   background-color: $info;
+  &:hover {
+    background-color: $info-light;
+  }
 }
 
 .success {
+  color: white;
   background-color: $success;
+  &:hover {
+      background-color: $success-light;
+    }
 }
 
 .warning {
+  color: white;
   background-color: $warning;
+  &:hover {
+    background-color: $warning-light;
+  }
 }
