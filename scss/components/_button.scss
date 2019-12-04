@@ -8,7 +8,7 @@
   border-radius: 5px;
 }
 .default {
-  color: white;
+  color: $w;
   background-color: $default;
   &:hover {
     transition: background-color 0.7s ease-in;
@@ -17,7 +17,7 @@
 }
 
 .error {
-  color: white;
+  color: $w;
   background-color: $error;
   &:hover {
     transition: background-color 0.7s ease-in;
@@ -26,7 +26,7 @@
 }
 
 .info {
-  color: white;
+  color: $w;
   background-color: $info;
   &:hover {
     transition: background-color 0.7s ease-in;
@@ -35,7 +35,7 @@
 }
 
 .success {
-  color: white;
+  color: $w;
   background-color: $success;
   &:hover {
     transition: background-color 0.7s ease-in;
@@ -44,7 +44,7 @@
 }
 
 .warning {
-  color: white;
+  color: $w;
   background-color: $warning;
   &:hover {
     transition: background-color 0.7s ease-in;
