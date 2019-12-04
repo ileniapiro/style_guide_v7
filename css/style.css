@@ -440,49 +440,49 @@ a {
   background-color: #9cecfd;
 }
 
-/* line 21, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+/* line 19, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
 .error {
   color: white;
   background-color: #e4757a;
 }
 
-/* line 24, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+/* line 22, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
 .error:hover {
   transition: background-color 0.7s ease-in;
   background-color: #f1b5b8;
 }
 
-/* line 30, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+/* line 28, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
 .info {
   color: white;
   background-color: #927bc1;
 }
 
-/* line 33, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+/* line 31, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
 .info:hover {
   transition: background-color 0.7s ease-in;
   background-color: #bdafd9;
 }
 
-/* line 39, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+/* line 37, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
 .success {
   color: white;
   background-color: #63cc82;
 }
 
-/* line 42, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+/* line 40, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
 .success:hover {
   transition: background-color 0.7s ease-in;
   background-color: #9ddfb0;
 }
 
-/* line 48, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+/* line 46, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
 .warning {
   color: white;
   background-color: #fd7856;
 }
 
-/* line 51, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+/* line 49, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
 .warning:hover {
   transition: background-color 0.7s ease-in;
   background-color: #feb4a2;
