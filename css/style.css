@@ -428,27 +428,27 @@ a {
   border-radius: 5px;
 }
 
-/* line 11, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+/* line 10, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
 .default {
   background-color: #51ddfc;
 }
 
-/* line 15, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+/* line 14, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
 .error {
   background-color: #e4757a;
 }
 
-/* line 19, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+/* line 18, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
 .info {
   background-color: #927bc1;
 }
 
-/* line 23, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+/* line 22, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
 .success {
   background-color: #63cc82;
 }
 
-/* line 27, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
+/* line 26, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_button.scss */
 .warning {
   background-color: #fd7856;
 }
@@ -641,25 +641,30 @@ a {
   .col-12 {
     flex-basis: 100%;
   }
-  /* line 145, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 144, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  .nav-link:hover {
+    color: #fff;
+    background-color: #58e1c1;
+  }
+  /* line 148, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .nav {
     flex-direction: row;
     justify-content: flex-end;
     align-items: center;
   }
-  /* line 149, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 152, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .nav-link {
     flex-basis: 100px;
   }
-  /* line 153, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 156, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .btn {
     padding: 10px 30px;
   }
-  /* line 157, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 160, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .btn + .btn {
     margin-left: 10px;
   }
-  /* line 161, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
+  /* line 163, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_grid.scss */
   .logo {
     margin-left: initial;
     margin-right: initial;
@@ -674,7 +679,7 @@ a {
   flex-direction: column;
 }
 
-/* line 8, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_navigation.scss */
+/* line 6, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_navigation.scss */
 .nav-link {
   text-align: center;
   border-radius: 5px;
@@ -682,12 +687,6 @@ a {
   display: block;
   width: 100%;
   transition: background-color .2s ease-in-out, color .2s ease-in-out;
-}
-
-/* line 19, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_navigation.scss */
-.nav-link:hover {
-  color: #fff;
-  background-color: #58e1c1;
 }
 
 /* line 1, ../../../../../xampp_ile/htdocs/style_guide_v7/scss/components/_images.scss */

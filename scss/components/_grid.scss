@@ -141,12 +141,15 @@
 .col-12 {
   flex-basis: 100%;
 }
-
+.nav-link:hover {
+  color: #fff;
+  background-color: #58e1c1;
+}
 .nav {
   flex-direction: row;
   justify-content: flex-end;
   align-items: center;
-&-link {
+ &-link {
   flex-basis: 100px;
 }
 }
@@ -157,10 +160,8 @@
 .btn + .btn {
   margin-left: 10px;
 }
-
 .logo {
   margin-left: initial;
   margin-right: initial;
 }
-
 }
